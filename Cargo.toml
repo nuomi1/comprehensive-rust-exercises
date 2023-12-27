@@ -1,3 +1,7 @@
 [workspace]
 resolver = "2"
-members = ["src/types-and-values", "src/control-flow-basics"]
+members = [
+    "src/types-and-values",
+    "src/control-flow-basics",
+    "src/tuples-and-arrays",
+]

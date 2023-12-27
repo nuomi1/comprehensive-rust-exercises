@@ -7,5 +7,9 @@ name = "control-flow-basics"
 version = "0.1.0"
 
 [[package]]
+name = "tuples-and-arrays"
+version = "0.1.0"
+
+[[package]]
 name = "types-and-values"
 version = "0.1.0"
