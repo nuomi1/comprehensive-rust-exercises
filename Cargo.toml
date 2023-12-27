@@ -5,4 +5,5 @@ members = [
     "src/control-flow-basics",
     "src/tuples-and-arrays",
     "src/references",
+    "src/user-defined-types",
 ]
