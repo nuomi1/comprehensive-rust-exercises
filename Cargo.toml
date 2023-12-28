@@ -7,4 +7,5 @@ members = [
     "src/references",
     "src/user-defined-types",
     "src/pattern-matching",
+    "src/methods-and-traits",
 ]
