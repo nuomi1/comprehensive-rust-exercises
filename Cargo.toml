@@ -6,4 +6,5 @@ members = [
     "src/tuples-and-arrays",
     "src/references",
     "src/user-defined-types",
+    "src/pattern-matching",
 ]
