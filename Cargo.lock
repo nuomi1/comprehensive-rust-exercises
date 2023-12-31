@@ -7,6 +7,10 @@ name = "control-flow-basics"
 version = "0.1.0"
 
 [[package]]
+name = "generics"
+version = "0.1.0"
+
+[[package]]
 name = "methods-and-traits"
 version = "0.1.0"
 
