@@ -9,4 +9,5 @@ members = [
     "src/pattern-matching",
     "src/methods-and-traits",
     "src/generics",
+    "src/std-types",
 ]
