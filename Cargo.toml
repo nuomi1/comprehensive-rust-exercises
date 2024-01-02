@@ -11,4 +11,5 @@ members = [
     "src/generics",
     "src/std-types",
     "src/std-traits",
+    "src/memory-management",
 ]

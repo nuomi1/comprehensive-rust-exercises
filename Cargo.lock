@@ -11,6 +11,10 @@ name = "generics"
 version = "0.1.0"
 
 [[package]]
+name = "memory-management"
+version = "0.1.0"
+
+[[package]]
 name = "methods-and-traits"
 version = "0.1.0"
 
