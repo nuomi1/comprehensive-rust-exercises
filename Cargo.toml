@@ -12,4 +12,5 @@ members = [
     "src/std-types",
     "src/std-traits",
     "src/memory-management",
+    "src/smart-pointers",
 ]
