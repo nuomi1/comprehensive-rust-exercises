@@ -14,4 +14,5 @@ members = [
     "src/memory-management",
     "src/smart-pointers",
     "src/borrowing",
+    "src/slices-and-lifetimes",
 ]
