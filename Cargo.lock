@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "borrowing"
+version = "0.1.0"
+
+[[package]]
 name = "control-flow-basics"
 version = "0.1.0"
 
