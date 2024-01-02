@@ -23,6 +23,10 @@ name = "references"
 version = "0.1.0"
 
 [[package]]
+name = "std-traits"
+version = "0.1.0"
+
+[[package]]
 name = "std-types"
 version = "0.1.0"
 

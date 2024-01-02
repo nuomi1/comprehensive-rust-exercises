@@ -10,4 +10,5 @@ members = [
     "src/methods-and-traits",
     "src/generics",
     "src/std-types",
+    "src/std-traits",
 ]
