@@ -27,6 +27,10 @@ name = "methods-and-traits"
 version = "0.1.0"
 
 [[package]]
+name = "modules"
+version = "0.1.0"
+
+[[package]]
 name = "pattern-matching"
 version = "0.1.0"
 

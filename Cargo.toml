@@ -16,4 +16,5 @@ members = [
     "src/borrowing",
     "src/slices-and-lifetimes",
     "src/iterators",
+    "src/modules",
 ]
