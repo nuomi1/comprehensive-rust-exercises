@@ -17,4 +17,5 @@ members = [
     "src/slices-and-lifetimes",
     "src/iterators",
     "src/modules",
+    "src/testing",
 ]
