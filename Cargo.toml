@@ -18,4 +18,5 @@ members = [
     "src/iterators",
     "src/modules",
     "src/testing",
+    "src/error-handling",
 ]
